@@ -17,3 +17,6 @@ Python 3.7.7
 Flask 1.1.2
 Werkzeug 1.0.1
 ```
+
+### Data
+The data set can be downloaded from [here](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data/data)
