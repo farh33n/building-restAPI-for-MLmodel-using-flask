@@ -1,3 +1,8 @@
+'''
+This module builds the model and saves it as well.
+The primary focus of this project is using flask hence no attention has been paid to conversion of strings to integers;
+most simple approach has been used for this purpose. I might update the code and improve that part in the future.
+'''
 from model import Model
 import os
 import pandas as pd
