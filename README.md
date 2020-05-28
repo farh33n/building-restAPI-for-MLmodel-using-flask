@@ -2,6 +2,7 @@
 
 ### To install flask on ubuntu:
 1. create a virtual environment on anaconda
+<br>
 `conda create -n flask_env python=3.7.7`
 2. activate virtual environment
 > conda activate flask_env
