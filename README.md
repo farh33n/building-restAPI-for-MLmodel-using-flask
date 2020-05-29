@@ -38,7 +38,7 @@ var[] contains values of features that are needed by the regression model to pre
 You will see the output in web browser.
 
 #### To get the prediction in terminal:
-Assuming you are already in flask_env; go to the directory containing app.py and run below in terminal
+Assuming you are already in flask_env; go to the directory containing app_.py and run below in terminal
 ```
 python app_.py
 ```
