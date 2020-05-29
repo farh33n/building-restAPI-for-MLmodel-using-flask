@@ -24,8 +24,8 @@ The data set can be downloaded from [here](https://www.kaggle.com/dgomonov/new-y
 ### Model
 Above data is used to train a regression model that predicts NYC Airbnb rental prices/costs.
 
-### To Run this app:
-assuming you are already in flask_env, run below in terminal
+### To Run this app locally:
+Assuming you are already in flask_env; go to the directory containing app.py and run below in terminal
 ```
 python app.py
 ```
