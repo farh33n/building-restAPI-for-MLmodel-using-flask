@@ -59,4 +59,4 @@ Server: Werkzeug/1.0.1 Python/3.7.7
 }
 ```
 
-Quick disclaimer: At the time of writing, I am currently a Intech Process Automation Employee
+Quick disclaimer: At the time of writing, I am currently Intech Process Automation Employee
