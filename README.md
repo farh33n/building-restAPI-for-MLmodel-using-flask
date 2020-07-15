@@ -1,6 +1,6 @@
 # building-restAPI-for-MLmodel-using-flask
 
-### To install flask on ubuntu:
+### To install flask on ubuntu 18.04.3:
 1. create a virtual environment on anaconda
 ```conda create -n flask_env python=3.7.7```
 2. activate virtual environment
